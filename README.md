@@ -1,2 +1,1 @@
-# Spring
-Repo used for Spring tutorials
+Example to show why constructor injection is preferred
